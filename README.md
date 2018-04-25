@@ -5,6 +5,7 @@ Sitemap Tester is a small php projet helping you testing your sitemap.xml files
 ## Getting Started
 
 git clone https://github.com/Mordreak/sitemap-tester.git
+composer dump-autoload
 
 ## How to use
 
