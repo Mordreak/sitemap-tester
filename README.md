@@ -4,7 +4,15 @@ Sitemap Tester is a small php projet helping you testing your sitemap.xml files
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+git clone https://github.com/Mordreak/sitemap-tester.git
+
+## How to use
+
+Usage: php app/launch.php (-f sitemap.xml -o output.csv -h)
+Options:
+-f : specify here an input file (default: sitemap.xml)
+-o : specify here an ouput file (default: output.csv)
+-h : displays this help message
 
 ### Prerequisites
 
