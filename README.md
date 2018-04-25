@@ -8,11 +8,11 @@ git clone https://github.com/Mordreak/sitemap-tester.git
 
 ## How to use
 
-Usage: php app/launch.php (-f sitemap.xml -o output.csv -h)
-Options:
--f : specify here an input file (default: sitemap.xml)
--o : specify here an ouput file (default: output.csv)
--h : displays this help message
+Usage: php app/launch.php (-f sitemap.xml -o output.csv -h)  
+Options:  
+-f : specify here an input file (default: sitemap.xml)  
+-o : specify here an ouput file (default: output.csv)  
+-h : displays this help message  
 
 ### Prerequisites
 
