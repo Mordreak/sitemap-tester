@@ -62,7 +62,7 @@ class CommandParser
 
     protected function _help()
     {
-        echo "Usage: php app/launch.php (-f sitemap.xml -o output.csv -h)\n";
+        echo "Usage: php check.php (-f sitemap.xml -o output.csv -h)\n";
         echo "Options:\n";
         echo "-f : specify here an input file (default: sitemap.xml)\n";
         echo "-o : specify here an ouput file (default: output.csv)\n";
