@@ -1,6 +1,6 @@
 # Sitemap Tester
 
-Sitemap Tester is a small php projet helping you testing your sitemap.xml files
+Sitemap Tester is a small php project helping you testing your sitemap.xml files
 
 ## Getting Started
 
