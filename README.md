@@ -16,7 +16,7 @@ Options:<br/>
 
 ### Prerequisites
 
-You need to have php-cli and php-xml extension installed.
+You need to have php-cli, php-curl and php-xml extension installed.
 
 ## Authors
 
